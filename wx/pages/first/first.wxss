@@ -1,0 +1,16 @@
+/* pages/first/first.wxss */
+.view1{
+    width:200rpx;
+    height: 200px;
+    background-color: #c00;
+}
+.view2{
+    width:150rpx;
+    height: 150px;
+    background-color: #dc0;
+}
+.view3{
+    width:100rpx;
+    height: 100px;
+    background-color: #eec;
+}
