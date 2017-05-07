@@ -1,7 +1,0 @@
-<template name="footer1">
-模板1
-</template>
-
-<template name="footer2">
-模板2 - {{text}}
-</template>
